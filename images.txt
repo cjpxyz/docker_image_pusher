@@ -1,1 +1,1 @@
-docker.io/valkey/valkey:8-bookworm
+valkey/valkey:8-bookworm
